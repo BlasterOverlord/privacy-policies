@@ -74,4 +74,4 @@ URL with a revised "Last updated" date.
 ## Contact
 
 If you have questions about this privacy policy, you can reach out at:
-**[blasteroverlord10@gmail.com]**
+**[blasteroverlord10@gmail.com](mailto:blasteroverlord10@gmail.com)**

@@ -7,7 +7,7 @@ theme: jekyll-theme-cayman
 
 **Last updated:** November 24, 2026
 
-AuraLook ("the Application") is an Android app developed by BlasterOverlord that replaces the lock screen notification display with a minimal, OLED-friendly one. The core app is free, with an optional paid "AuraLook Pro" upgrade and optional tips. The Application is provided "AS IS".
+AuraLook is an Android app developed by BlasterOverlord that replaces the lock screen notification display with a minimal, OLED-friendly one. The core app is free, with an optional paid "AuraLook Pro" upgrade and optional tips. AuraLook is provided "AS IS".
 
 ## Summary
 
